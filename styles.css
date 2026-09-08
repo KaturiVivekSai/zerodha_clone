@@ -2,6 +2,7 @@ body{
     font-family: "Inter",sans-serif;    
     font-size:16px;
     color:#424242;
+    text-align: center;
 }
 #signup-button{
     background-color: #387ed1;
