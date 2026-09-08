@@ -1,0 +1,68 @@
+body{
+    font-family: "Inter",sans-serif;    
+    font-size:16px;
+    color:#424242;
+}
+#signup-button{
+    background-color: #387ed1;
+    color:white;
+    margin:20px;    
+    border-color:#387ed1 ;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+#submit{
+    background-color: antiquewhite;
+}
+#p1{
+    font-size:20px;
+}
+#signup-button:hover{
+    background-color: black;
+}
+#header-logo{
+    width:150px;
+    
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    flex-direction: row;
+    flex-wrap:wrap;
+    gap:30px;
+}
+#cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    border-radius:5px;
+    justify-content: space-evenly;
+    padding:20px;
+    gap:20px;
+}
+#cards iframe{
+    border-radius:10px;
+}
+h1{
+    margin-top: 0px;
+    font-weight: 200;
+    font-size:30px;
+}
+a{
+    margin: 20px;
+    color:#666;
+    text-decoration: none;
+    font-weight: 400px;
+}
+a:hover{
+    color: #387ed1;
+}
